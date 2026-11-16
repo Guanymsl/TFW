@@ -63,7 +63,7 @@ def main():
 
     plt.xlabel("Time (s)")
     plt.ylabel("Frequency (Hz)")
-    plt.title("Scaled Gabor Transform (Unbalanced Form)")
+    plt.title("Scaled Gabor Transform")
     plt.colorbar(label="Magnitude")
 
     plt.tight_layout()
